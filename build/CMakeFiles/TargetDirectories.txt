@@ -1,0 +1,3 @@
+/Users/jomo/CSC7300/mesh-simplification/build/CMakeFiles/MeshSimplification.dir
+/Users/jomo/CSC7300/mesh-simplification/build/CMakeFiles/edit_cache.dir
+/Users/jomo/CSC7300/mesh-simplification/build/CMakeFiles/rebuild_cache.dir
